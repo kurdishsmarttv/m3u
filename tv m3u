@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,FREESAT | Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+#EXTINF:-1,FREESAT | Rotana Music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:-1,FREESAT | Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1,FREESAT | Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1,FREESAT | Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1,FREESAT | Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
